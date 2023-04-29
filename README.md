@@ -9,7 +9,7 @@
 - Add this in your `server.cfg`:
 
 ```
-ensure esx_barbershop
+ensure skinchanger
 ```
 
 # Legal
